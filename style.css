@@ -11,3 +11,17 @@ body {
   box-shadow: 30px;
   padding: 20px;
 }
+.image-one {
+    position: relative;
+    text-align: right;
+    -webkit-text-stroke: 
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-size: 2em; 
+}
